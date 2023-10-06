@@ -10,7 +10,7 @@ Upload index.html and assets folder to web browser. Assets folder contains style
 
 ## Links:
 
-- [Webpage]()
+- [Webpage](https://lornaburns.github.io/password-generator-23/)
 - [Repository](https://github.com/lornaburns/password-generator-23)
 
 ## Use:
@@ -19,7 +19,7 @@ This webpage is responsive on a range of screen sizes. The page can be refreshed
 
 ## Image:
 
-<img src="" alt="password generator" width="200"/>
+<img src="./assets/img/lornaburns.github.io_password-generator-23_.png" alt="password generator" width="200"/>
 
 ## Credits:
 
