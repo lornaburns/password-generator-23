@@ -11,7 +11,7 @@ Upload index.html and assets folder to web browser. Assets folder contains style
 ## Links:
 
 - [Webpage]()
-- [Repository]()
+- [Repository](https://github.com/lornaburns/password-generator-23)
 
 ## Use:
 
@@ -23,4 +23,5 @@ This webpage is responsive on a range of screen sizes. The page can be refreshed
 
 ## Credits:
 
--
+- [MDN] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+- [W3Schools] https://www.w3schools.com/js/js_popup.asp
